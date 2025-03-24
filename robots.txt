@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://steoober.github.io/Robo-X9-Eurax/sitemap.xml
